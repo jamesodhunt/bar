@@ -1,15 +1,10 @@
 # Glossary
 <div style="width:100%">
-[0-9](#0-9),
 [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g),
 [H](#h), [I](#i), [J](#j), [K](#k), [L](#l), [M](#m), [N](#n),
 [O](#o), [P](#p), [Q](#q), [R](#r), [S](#s), [T](#t), [U](#u),
 [V](#v), [W](#w), [X](#x), [Y](#y), [Z](#z)
 </div>
-
-## 0-9
-
-### 9pfs
 
 A shared file system protocol, it is used to allow the Kata
 [VM](#vm)'s access files on the host. This is not longer use by Kata
