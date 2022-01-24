@@ -1,11 +1,5 @@
 # Glossary
 
-<style>
-    table {
-        width: 100%;
-    }
-</style>
-
 # A
 
 <div>
