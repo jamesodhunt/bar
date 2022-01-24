@@ -1,5 +1,13 @@
 # Glossary
 
+# A
+
+<div>
+[A](#a) | 
+</div>
+
+# B
+
 <div>
 [0-9](#0-9) |
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) |
@@ -7,6 +15,8 @@
 [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) |
 [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z) 
 </div>
+
+# C
 
 <table style="width: 100%">
 <tr style="width: 100%">
@@ -20,12 +30,15 @@
 </tr>
 </table>
 
+# D
 
 [0-9](#0-9) |
 [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) |
 [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) |
 [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) |
 [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)
+
+# E
 
 [A](#a), [B](#b), [C](#c), [D](#d), [E](#e), [F](#f), [G](#g),
 [H](#h), [I](#i), [J](#j), [K](#k), [L](#l), [M](#m), [N](#n),
@@ -43,4 +56,4 @@ standard (see [this issue](https://github.com/kata-containers/kata-containers/is
 
 Kata now uses [Virtio-fs](#virtio-fs) by default.
 
-## A
+## Z
