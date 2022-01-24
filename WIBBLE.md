@@ -52,9 +52,9 @@
 
 # D
 
-<table style="width:100%" border="1">
-<tr>
-<td>
+<table style="width:100%">
+<tr style="width:100%">
+<td style="width:100%">
 
                                     
 [0-9](#0-9) |
